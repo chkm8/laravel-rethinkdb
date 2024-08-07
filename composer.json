@@ -1,5 +1,5 @@
 {
-    "name": "duxet/laravel-rethinkdb",
+    "name": "chkm8/laravel-rethinkdb",
     "description": "RethinkDB adapter for Laravel",
     "authors": [
         {
